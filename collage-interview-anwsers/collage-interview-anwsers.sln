@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "collage-interview-anwsers", "collage-interview-anwsers.csproj", "{82DC6CF4-8908-44A2-85BF-B5ED34453930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlerTests", "..\UnitTests\HandlerTests.csproj", "{6D04087B-9F92-46A0-BFD4-C5ABA0EBB153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82DC6CF4-8908-44A2-85BF-B5ED34453930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DC6CF4-8908-44A2-85BF-B5ED34453930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DC6CF4-8908-44A2-85BF-B5ED34453930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DC6CF4-8908-44A2-85BF-B5ED34453930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D04087B-9F92-46A0-BFD4-C5ABA0EBB153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D04087B-9F92-46A0-BFD4-C5ABA0EBB153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D04087B-9F92-46A0-BFD4-C5ABA0EBB153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D04087B-9F92-46A0-BFD4-C5ABA0EBB153}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EE9F981-295D-4F2C-88F6-27276C38A418}
+	EndGlobalSection
+EndGlobal
